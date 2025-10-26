@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://overclockingstaff-lgtm.github.io/kenneth-kohlberg-overclocking/sitemap.xml
